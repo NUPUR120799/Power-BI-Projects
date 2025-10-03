@@ -67,3 +67,7 @@ Workforce Management: Understand tenure trends to design onboarding and long-ter
 
 Budget & Compensation Review: Insights from salary-related attrition can inform future compensation structures.
 
+📌 Summary:
+
+This dashboard equips HR and leadership with critical insights to reduce attrition, improve employee satisfaction, and make strategic decisions to retain top talent.
+
